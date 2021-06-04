@@ -4,7 +4,9 @@ import java.io.FileWriter;
 import java.io.BufferedWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*
+*@Author Hamdaoui Tayeb, tmimi443@gmail.com
+*/
 
 //format
 /*
