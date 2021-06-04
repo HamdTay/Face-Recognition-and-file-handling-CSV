@@ -11,6 +11,10 @@ import org.opencv.utils.Converters;
 import org.opencv.core.CvException;
 import org.opencv.face.*;
 
+/**
+*@Author: Hamdaoui Tayeb, tmimi443@gmail.com
+*/
+
 public class test {
     public static void main(String[] args) {
     	System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
